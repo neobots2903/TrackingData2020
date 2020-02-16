@@ -1,0 +1,38 @@
+<annotation>
+	<folder>300</folder>
+	<filename>usbcamera20200110162450.jpg</filename>
+	<path>C:\Users\robot\Pictures\Label img\300\usbcamera20200110162450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>energy_cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>169</ymin>
+			<xmax>432</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jessica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>48</ymin>
+			<xmax>541</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>
