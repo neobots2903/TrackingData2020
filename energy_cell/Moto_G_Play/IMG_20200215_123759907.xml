@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Moto_G_Play</folder>
+	<filename>IMG_20200215_123759907.jpg</filename>
+	<path>/home/neobot/TrackingData2020/energy_cell/Moto_G_Play/IMG_20200215_123759907.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>energy_cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>719</ymin>
+			<xmax>812</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+</annotation>

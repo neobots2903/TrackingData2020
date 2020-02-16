@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Liam</folder>
+	<filename>IMG_20200214_155820035_BURST000_COVER_TOP.jpg</filename>
+	<path>C:\Users\robot\Documents\Liam\IMG_20200214_155820035_BURST000_COVER_TOP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>energy_cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>902</xmin>
+			<ymin>748</ymin>
+			<xmax>1733</xmax>
+			<ymax>1561</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HelpfulCitizen1</folder>
+	<filename>IMG_20200214_163902909_BURST634.jpg</filename>
+	<path>C:\Users\robot\Pictures\HelpfulCitizen1\IMG_20200214_163902909_BURST634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>energy_cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1424</xmin>
+			<ymin>1151</ymin>
+			<xmax>1980</xmax>
+			<ymax>1745</ymax>
+		</bndbox>
+	</object>
+</annotation>

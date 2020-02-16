@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tammo</folder>
+	<filename>IMG_20200214_163902909_BURST051.jpg</filename>
+	<path>C:\Users\robot\Pictures\Tammo\IMG_20200214_163902909_BURST051.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>energy_cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1822</xmin>
+			<ymin>347</ymin>
+			<xmax>2101</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>
