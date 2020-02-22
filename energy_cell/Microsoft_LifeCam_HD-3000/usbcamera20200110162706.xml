@@ -1,7 +1,7 @@
 <annotation>
-	<folder>400</folder>
+	<folder>Microsoft_LifeCam_HD-3000</folder>
 	<filename>usbcamera20200110162706.jpg</filename>
-	<path>C:\Users\robot\Pictures\400\usbcamera20200110162706.jpg</path>
+	<path>/home/neobot/TrackingData2020/energy_cell/Microsoft_LifeCam_HD-3000/usbcamera20200110162706.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>enery_cell</name>
+		<name>energy_cell</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

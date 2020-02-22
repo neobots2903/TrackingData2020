@@ -1,7 +1,7 @@
 <annotation>
-	<folder>700</folder>
+	<folder>Microsoft_LifeCam_HD-3000</folder>
 	<filename>usbcamera20200110163022(2).jpg</filename>
-	<path>C:\Users\robot\Pictures\Label img\700\usbcamera20200110163022(2).jpg</path>
+	<path>/home/neobot/TrackingData2020/energy_cell/Microsoft_LifeCam_HD-3000/usbcamera20200110163022(2).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,18 +21,6 @@
 			<ymin>314</ymin>
 			<xmax>370</xmax>
 			<ymax>368</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>jessica</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>411</xmin>
-			<ymin>243</ymin>
-			<xmax>438</xmax>
-			<ymax>294</ymax>
 		</bndbox>
 	</object>
 </annotation>
